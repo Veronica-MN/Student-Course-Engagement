@@ -44,10 +44,15 @@ The monthly onboarding rate fluctuates between 46% and 64%, with October showing
 
 In contrast, paying students seek more value and are more dedicated, watching an average of 670 minutes compared to 29 minutes for free-plan students. In August, when the platform was opened for free, the average minutes watched by free-plan students increased to about 70 minutes, indicating higher engagement during this period.
 
-4. akfnldkg
+4. In August, there was a notable peak in minutes watched by free-plan students due to the 365 marketing team's Free-Days campaign.
 
 ![peak_minutes_watched](peak_minutes_watched.png) 
 
-In August, there was a notable peak in minutes watched by free-plan students due to the 365 marketing team's Free-Days campaign. This peak did not occur for paying students, who already had full access. Overall, the data shows a slight increase in average minutes watched by free-plan students, a fluctuating pattern in minutes watched by paying students, and a slight decrease in the average minutes watched by paying students.
+This peak did not occur for paying students, who already had full access. Overall, the data shows a slight increase in average minutes watched by free-plan students, a fluctuating pattern in minutes watched by paying students, and a slight decrease in the average minutes watched by paying students.
 
+By temporarily removing the Registration Date Filter, we can examine funnel charts for students registered between January 1, 2022, and October 20, 2022. Analyzing free-plan and paying students separately reveals that most free-plan students who registered and watched courses are from India.
+
+![student_countries](student_countries.png)
+
+For paying students, those from the US lead in both registration and course watching metrics. There is also significant traffic from Egypt, Nigeria, the UK, Canada, and India. However, the funnel charts indicate that the number of registered students per country does not always proportionally correspond to the number of minutes watched.
 

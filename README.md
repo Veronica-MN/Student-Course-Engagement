@@ -30,6 +30,8 @@ The platform registered 35,230 students over the analysis period, with an onboar
    - Test for user experience issues
    - Add more relevant content or better target potential users
    - Improve the user journey and provide clearer learning paths
+
+![student_registration](student_registration.png)
      
 The monthly onboarding rate fluctuates between 46% and 64%, with October showing a slightly higher rate, possibly due to incomplete data for the final 11 days of the month.
 

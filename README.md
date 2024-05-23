@@ -44,7 +44,10 @@ The monthly onboarding rate fluctuates between 46% and 64%, with October showing
 
 In contrast, paying students seek more value and are more dedicated, watching an average of 670 minutes compared to 29 minutes for free-plan students. In August, when the platform was opened for free, the average minutes watched by free-plan students increased to about 70 minutes, indicating higher engagement during this period.
 
+4. akfnldkg
 
+![peak_minutes_watched](peak_minutes_watched.png) 
 
+In August, there was a notable peak in minutes watched by free-plan students due to the 365 marketing team's Free-Days campaign. This peak did not occur for paying students, who already had full access. Overall, the data shows a slight increase in average minutes watched by free-plan students, a fluctuating pattern in minutes watched by paying students, and a slight decrease in the average minutes watched by paying students.
 
 

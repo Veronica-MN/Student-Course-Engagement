@@ -21,4 +21,4 @@ The questions to be answered in this project are as follows:
 
 ### Analysing the Results
 
-[Page 3](https://public.tableau.com/app/profile/veronica.mucha/viz/CustomerEngagement-Final/Page1) of the Dashboard shows the Top 5 most watched courses by students. This is rated by total minutes watched, Averagerage minutes, number of ratings and average rating. The Introduction to Data and Data Science course is the most popular/wached course amongst students. This would imply that the Data Science course is what most students are looking to embark on as a career. 
+[Page 3]([https://public.tableau.com/app/profile/veronica.mucha/viz/CustomerEngagement-Final/Page1](https://public.tableau.com/app/profile/veronica.mucha/viz/CustomerEngagement-Final/Page1) of the Dashboard shows the Top 5 most watched courses by students. This is rated by total minutes watched, Averagerage minutes, number of ratings and average rating. The Introduction to Data and Data Science course is the most popular/wached course amongst students. This would imply that the Data Science course is what most students are looking to embark on as a career. 

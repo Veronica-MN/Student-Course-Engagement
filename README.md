@@ -35,7 +35,7 @@ The monthly onboarding rate fluctuates between 46% and 64%, with October showing
 
 [Page 1](https://public.tableau.com/app/profile/veronica.mucha/viz/CustomerEngagement-Final/Page1) During the analysis period from January 1, 2022, to October 20, 2022, free-plan students watched about 491,000 minutes, whereas paying students watched around 1,345,000 minutes. This significant difference is attributed to free-plan students being less motivated and having limited access (about 30 minutes per course). 
 
-[KPIs](kpis.png)
+![KPIs](kpis.png)
 
 
 In contrast, paying students seek more value and are more dedicated, watching an average of 670 minutes compared to 29 minutes for free-plan students. In August, when the platform was opened for free, the average minutes watched by free-plan students increased to about 70 minutes, indicating higher engagement during this period.

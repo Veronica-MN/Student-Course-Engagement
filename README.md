@@ -1,4 +1,4 @@
-# Student-Customer-Engagement
+# Student-Course-Engagement
 
 ## Analysing and Visualising Student Engagement, including key metrics, in a 3 page Dashboard
 
